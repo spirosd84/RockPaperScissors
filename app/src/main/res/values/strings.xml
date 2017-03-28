@@ -2,8 +2,7 @@
     <string name="app_name">"Rock Paper Scissors"</string>
     <string name="computer">"Android"</string>
     <string name="player">"You"</string>
-    <string name="play">"Play"</string>
-    <string name="reset">"Reset"</string>
+    <string name="reset">"   Reset   "</string>
     <string name="win">"You won!!</string>
     <string name="lost">"You lost"</string>
     <string name="draw">"Draw"</string>
