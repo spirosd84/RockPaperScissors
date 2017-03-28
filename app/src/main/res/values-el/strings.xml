@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">\"Πέτρα Ψαλίδι Χαρτί\"</string>
+    <string name="play">¨Παίξε\"</string>
+    <string name="reset">\"Μηδενισμός\"</string>
+    <string name="computer">\"Android\"</string>
+    <string name="draw">\"Ισοπαλία\"</string>
+    <string name="lost">\"Έχασες\"</string>
+    <string name="player">\"Εσύ\"</string>
+    <string name="win">\"κέρδισες\"</string>
+    <string name="paper_rock">\"Το Χαρτί νικάει την Πέτρα\"</string>
+    <string name="rock_scissors">\"Η Πέτρα νικάει το Ψαλίδι\"</string>
+    <string name="scissors_paper">\"Το Ψαλίδι νικάει το Χαρτί\"</string>
+</resources>
